@@ -1,0 +1,55 @@
+.slider-item .delete{
+    background-color: #dc3545; 
+    color: #fff; 
+    border-color: #c9302c; 
+    width: 100px; 
+    margin-top: 10px;
+}
+#add{
+    background-color: #449D44; 
+    color: #fff; 
+    border-color: #449D44; 
+    width: 100px; 
+    margin-top: 10px;
+}
+.remove{
+    margin-top: 10px;
+}
+.slider-item .image-upload #image-upload-text {
+    margin-top: 10px;
+}
+.slider-item .image-upload .image-upload-button{
+    margin-top: 10px;
+}
+.slider-item #slider-item-title{
+    margin-top: 10px;
+}
+.slider-item #slider-item-textarea{
+    margin-top: 10px;
+}
+.banner-slider-item #banner-slider-textarea{
+    margin-top: 10px;
+}
+.banner-slider-item .delete{
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #c9302c;
+    width: 100px;
+    margin-top: 10px;
+}
+.item .delete{
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #c9302c;
+    width: 100px;
+    margin-top: 10px;
+}
+.item #services-title{
+    margin-top: 10px;
+}
+.item .image-upload #services-text{
+    margin-top: 10px;
+}
+.image-upload .image-upload-button{
+    margin-top: 10px;
+}
